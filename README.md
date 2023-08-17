@@ -28,5 +28,5 @@ In a digital landscape laden with challenges, the Advanced Password Generator se
 
 <h1 align="center" id="title">PASSWORD GENERATOR</h1>
 
-<p align="center"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Flovepik.com%2Fimages%2Fpassword-generator.html&amp;psig=AOvVaw2aZ-DUrbnbqaoPJso2fCpg&amp;ust=1692392373047000&amp;source=images&amp;cd=vfe&amp;ved=0CBAQjRxqFwoTCJCPoYPL5IADFQAAAAAdAAAAABAD" alt="project-image"></p>
+<p align="center"><img src="https://img.lovepik.com/photo/50054/1552.jpg_wh300.jpg"></p>
 
