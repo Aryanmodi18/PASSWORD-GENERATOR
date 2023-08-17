@@ -1,3 +1,7 @@
+<h1 align="center" id="title">PASSWORD GENERATOR</h1>
+
+<p align="center"><img src="https://img.lovepik.com/photo/50054/1552.jpg_wh300.jpg"></p>
+
 # PASSWORD-GENERATOR
 #In the contemporary digital landscape, safeguarding your financial resources and sensitive data has become paramount. Amidst growing concerns of unauthorized access, fortifying your defenses is imperative, and a potent approach involves the creation of robust, randomly generated passwords. This project stands as a steadfast solution, aiming to empower users with a dependable means of generating such safeguarding passwords.
 #**Key Features:**
@@ -26,7 +30,4 @@ Following these succinct steps will facilitate the utilization of this robust pa
 
 In a digital landscape laden with challenges, the Advanced Password Generator serves as a steadfast companion, seamlessly weaving security and innovation. As you embark on this journey, remember that while passwords bolster security, adopting a holistic approach—embracing practices like multi-factor authentication—sustains the sanctity of your digital world.
 
-<h1 align="center" id="title">PASSWORD GENERATOR</h1>
-
-<p align="center"><img src="https://img.lovepik.com/photo/50054/1552.jpg_wh300.jpg"></p>
 
