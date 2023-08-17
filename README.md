@@ -26,3 +26,7 @@ Following these succinct steps will facilitate the utilization of this robust pa
 
 In a digital landscape laden with challenges, the Advanced Password Generator serves as a steadfast companion, seamlessly weaving security and innovation. As you embark on this journey, remember that while passwords bolster security, adopting a holistic approach—embracing practices like multi-factor authentication—sustains the sanctity of your digital world.
 
+<h1 align="center" id="title">PASSWORD GENERATOR</h1>
+
+<p align="center"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Flovepik.com%2Fimages%2Fpassword-generator.html&amp;psig=AOvVaw2aZ-DUrbnbqaoPJso2fCpg&amp;ust=1692392373047000&amp;source=images&amp;cd=vfe&amp;ved=0CBAQjRxqFwoTCJCPoYPL5IADFQAAAAAdAAAAABAD" alt="project-image"></p>
+
